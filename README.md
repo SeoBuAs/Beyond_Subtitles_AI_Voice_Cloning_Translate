@@ -1,5 +1,6 @@
 # Intrinsic_Vocal_Integrity_A_Framework_for_Authentic_Dubbing
 
+Whisper
 
 ### Team
 
