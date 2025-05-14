@@ -44,6 +44,6 @@ Expected benefits include providing a content consumption experience without lan
 <h3> 🎥 Gradio Interface </h3>
 <table>
   <tr>
-    <td><img src="./image/Gradio.png" alt="Image 2"/></td>
+    <td><img src="./image/Gradio_.png" alt="Image 2"/></td>
   </tr>
 </table>
