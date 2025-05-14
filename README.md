@@ -1,4 +1,4 @@
-# ZeroShot_VoiceCloning_for_CrossLanguageContentDelivery
+# Zero Shot Voice Cloning for Cross Language Content Delivery
 
 
 Whisper
