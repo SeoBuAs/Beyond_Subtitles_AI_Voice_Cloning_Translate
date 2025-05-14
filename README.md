@@ -21,7 +21,7 @@ Expected benefits include providing a content consumption experience without lan
   <tr>
     <td> <img alt="Github" src ="https://github.com/user-attachments/assets/2fad07e0-8441-46fd-8f4b-60870260e3f9" width="300" height="300"/> </td>
     <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/96530685?v=4" width="300" height="300"/> </td>
-    <td> <img alt="Github" src ="" width="300" height="300"/> </td>
+    <td> <img alt="Github" src ="https://huggingface.co/avatars/a698c38c55f2b19a7662b0a7531f95e7.svg" width="300" height="300"/> </td>
   </tr>
   <tr>
     <td> <div align=center> <a href="https://github.com/SeoBuAs"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
