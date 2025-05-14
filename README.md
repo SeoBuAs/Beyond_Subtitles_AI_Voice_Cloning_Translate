@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c6314d55-1c9f-4ccd-a2ba-a2d9f65cd33a)# Zero Shot Voice Cloning for Cross Language Content Delivery
+# Zero Shot Voice Cloning for Cross Language Content Delivery
 ### Abstract
 
 
