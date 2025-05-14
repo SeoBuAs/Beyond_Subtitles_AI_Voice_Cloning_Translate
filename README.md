@@ -1,4 +1,5 @@
-# Intrinsic_Vocal_Integrity_A_Framework_for_Authentic_Dubbing
+# ZeroShot_VoiceCloning_for_CrossLanguageContentDelivery
+
 
 Whisper
 
