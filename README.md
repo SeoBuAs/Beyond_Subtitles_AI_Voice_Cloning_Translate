@@ -1,4 +1,4 @@
-# Zero Shot Voice Cloning for Cross Language Content Delivery
+![image](https://github.com/user-attachments/assets/c6314d55-1c9f-4ccd-a2ba-a2d9f65cd33a)# Zero Shot Voice Cloning for Cross Language Content Delivery
 ### Abstract
 
 
@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td> <img alt="Github" src ="https://github.com/user-attachments/assets/2fad07e0-8441-46fd-8f4b-60870260e3f9" width="300" height="300"/> </td>
-    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/c19b2e84-a357-4ddf-be78-2e8fbd40e1f0" width="300" height="300"/> </td>
+    <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/96530685?v=4" width="300" height="300"/> </td>
     <td> <img alt="Github" src ="https://github.com/user-attachments/assets/fa51738c-7890-45c2-b8d3-05715d756093" width="300" height="300"/> </td>
   </tr>
   <tr>
