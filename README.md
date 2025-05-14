@@ -17,9 +17,9 @@
     <td> <div align=center> <b>Hye-Jung, Ko</b> </div> </td>
   </tr>
   <tr>
-    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/2fad07e0-8441-46fd-8f4b-60870260e3f9" width="200" height="300"/> </td>
-    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/c19b2e84-a357-4ddf-be78-2e8fbd40e1f0" width="200" height="300"/> </td>
-    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/fa51738c-7890-45c2-b8d3-05715d756093" width="200" height="300"/> </td>
+    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/2fad07e0-8441-46fd-8f4b-60870260e3f9" width="300" height="300"/> </td>
+    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/c19b2e84-a357-4ddf-be78-2e8fbd40e1f0" width="300" height="300"/> </td>
+    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/fa51738c-7890-45c2-b8d3-05715d756093" width="300" height="300"/> </td>
   </tr>
   <tr>
     <td> <div align=center> <a href="https://github.com/SeoBuAs"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
