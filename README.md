@@ -34,6 +34,6 @@ Expected benefits include providing a content consumption experience without lan
 <h3> ⚙️ Architecture </h3>
 <table>
   <tr>
-    <td><img src="./images/Pipeline.png" alt="Image 1"/></td>
+    <td><img src="./image/Pipeline.png" alt="Image 1"/></td>
   </tr>
 </table>
