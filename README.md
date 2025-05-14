@@ -31,4 +31,20 @@ Expected benefits include providing a content consumption experience without lan
 </table>
 
 ---
+
 <h3> ⚙️ Architecture </h3>
+<table>
+  <tr>
+    <td><img src="./image/Pipeline.png" alt="Image 1"/></td>
+  </tr>
+</table>
+
+---
+
+<h3> 🎥 Gradio Interface </h3>
+<table>
+  <tr>
+    <td><img src="./image/Pipeline.png" alt="Image 1"/></td>
+    <td><img src="./image/Pipeline.png" alt="Image 1"/></td>
+  </tr>
+</table>
