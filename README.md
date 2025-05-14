@@ -1,6 +1,8 @@
 # Zero Shot Voice Cloning for Cross Language Content Delivery
 ### Abstract
-
+When watching foreign content, dubbing reduces immersion due to voice disharmony and awkward dialogue, while subtitles cause visual distraction and increased fatigue. These issues prevent the complete transmission of the original work's intentions and emotions.
+This project has developed an AI voice translation system utilizing deep learning-based Zero Shot technology that preserves the original voice actor's vocal characteristics while translating into different languages. To overcome the limitations of traditional dubbing and subtitles, the system is designed to maintain the original voice's characteristics and emotions while providing natural translation. This system reduces visual distractions so viewers can become more immersed in the content, allowing the original work's intentions and emotions to be properly conveyed.
+Expected benefits include providing a content consumption experience without language barriers, improving access to international content, and facilitating exchange between diverse cultures. This is expected to make significant contributions to effective localization and distribution of content in the global media market.
 
 ---
 
@@ -19,7 +21,7 @@
   <tr>
     <td> <img alt="Github" src ="https://github.com/user-attachments/assets/2fad07e0-8441-46fd-8f4b-60870260e3f9" width="300" height="300"/> </td>
     <td> <img alt="Github" src ="https://avatars.githubusercontent.com/u/96530685?v=4" width="300" height="300"/> </td>
-    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/fa51738c-7890-45c2-b8d3-05715d756093" width="300" height="300"/> </td>
+    <td> <img alt="Github" src ="" width="300" height="300"/> </td>
   </tr>
   <tr>
     <td> <div align=center> <a href="https://github.com/SeoBuAs"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
