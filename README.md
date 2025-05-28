@@ -48,10 +48,23 @@
 *   **로깅**: 표준 Python `logging` 모듈
 *   **병렬 처리**: `concurrent.futures.ThreadPoolExecutor` (비디오 처리 등)
 
+## 💿 데이터 제작 출처 및 평가 정보
 
-<h3> 🎥 Gradio Interface </h3>
-<table>
-  <tr>
-    <td><img src="./image/Gradio_.png" alt="Image 2"/></td>
-  </tr>
-</table>
+
+
+이 프로젝트의 일부(팁 토론 또는 미세 조정/평가를 위한 리뷰와 관련될 가능성이 높음)에 사용된 데이터 세트는 다음에서 찾을 수 있습니다:
+
+[Hugging Face의 Reddit 팁 데이터 세트 컬렉션](https://huggingface.co/collections/kfkas/reddit-tip-dataset-681f42af40cff65d89153c88)
+
+
+### 데이터 수집 및 필터링 과정
+
+| 단계 | 설명 | 데이터 수 |
+| :--- | :--- | :---: |
+| **데이터 수집** | **Web Scraping (Beautiful Soup)** | - |
+| | Reddit 팁 사례 데이터 2000개 수집 | 2000개 |
+| **1차 필터링** | LLM으로 상황 Caption, Tip이 있는 샘플만 필터링 | 533개 |
+| **2차 필터링** | 상황 Caption과 Tip이 일관성 있는 샘플만 필터링 | 338개 |
+| **데이터 생성 (Gemini)** | Situation Caption을 입력으로 손님 입장에서의 Video 캡션 생성, 내용 일관성 있는 샘플만 필터링 | 112개 |
+| **3차 필터링** | Situation Caption과 Video Caption 상황이 일치하는 샘플만 필터링 | 105개 |
+| **최종 데이터** | **최종 Reddit Tip 데이터 생성 (Video Caption, Tip %)** | **105개** |
