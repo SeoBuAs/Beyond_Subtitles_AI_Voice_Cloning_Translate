@@ -56,12 +56,10 @@
     *   **음성 인식**: Whisper (Speech-to-Text)
     *   **번역**: GPT API (다국어 번역)
     *   **음성 합성**: ZONOS (Text-to-Speech)
-
 *   **AI/머신러닝**:
-
-음성 특성 추출: CLAP (Contrastive Language-Audio Pre-training) Feature Extractor
-감정 조절 모듈: 자체 개발 Emotion Conditioning Module
-Zero Shot 학습: HuggingFace Transformers
+    *   **음성 특성 추출**: CLAP (Contrastive Language-Audio Pre-training) Feature Extractor
+    *   **감정 조절 모듈**: 자체 개발 Emotion Conditioning Module
+    *   **Zero Shot 학습**: HuggingFace Transformers
 
 
 핵심 라이브러리: HuggingFace, PyTorch, Transformers
