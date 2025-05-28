@@ -52,7 +52,6 @@
 *   **개발도구**: Visual Studio Code, Jupyter Notebook
 *   **개발언어**: Python
 *   **음성 처리 파이프라인**:
-
   *   **음성 분리**: Demucs (음성과 배경음 분리)
   *   **음성 인식**: Whisper (Speech-to-Text)
   *   **번역**: GPT API (다국어 번역)
