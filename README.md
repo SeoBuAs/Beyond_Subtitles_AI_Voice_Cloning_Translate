@@ -67,7 +67,7 @@
 
 ## 💿 데이터 제작 출처 및 평가 정보
 
-이 프로젝트의 일부(팁 토론 또는 미세 조정/평가를 위한 리뷰와 관련될 가능성이 높음)에 사용된 데이터 세트는 다음에서 찾을 수 있습니다:
+이 프로젝트의 일부(감정 모듈 훈련)에 사용된 데이터 세트는 다음에서 찾을 수 있습니다:
 
 [Hugging Face의 Simpson Emotion Labeling 데이터]([BuAs/Simpson_Emotion_Labeling_for_ZONOS](https://huggingface.co/datasets/BuAs/Simpson_Emotion_Labeling_for_ZONOS))
 
