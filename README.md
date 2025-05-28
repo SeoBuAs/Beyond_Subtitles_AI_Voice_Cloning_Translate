@@ -69,7 +69,7 @@
 
 이 프로젝트의 일부(팁 토론 또는 미세 조정/평가를 위한 리뷰와 관련될 가능성이 높음)에 사용된 데이터 세트는 다음에서 찾을 수 있습니다:
 
-[Hugging Face의 Reddit 팁 데이터 세트 컬렉션](https://huggingface.co/collections/kfkas/reddit-tip-dataset-681f42af40cff65d89153c88)
+[Hugging Face의 Simpson Emotion Labeling 데이터](BuAs/Simpson_Emotion_Labeling_for_ZONOS)
 
 ### 데이터 수집 및 필터링 과정
 
