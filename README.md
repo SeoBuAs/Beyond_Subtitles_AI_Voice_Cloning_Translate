@@ -37,17 +37,6 @@
 
 ## 🛠️ 기술 스택
 
-*   **백엔드**: Python, Flask
-*   **프론트엔드 (UI)**: Gradio
-*   **머신러닝 / AI**:
-    *   **팁 계산/분석 LLMs**: Google Gemini API, Ollama (Mistral 등 로컬 모델), Qwen (Tongyi Qwen API), OpenAI GPT API
-    *   **이미지/비디오 분석 VLMs/Image-Text Models**: HuggingFace SmolVLM (`HuggingFaceTB/SmolVLM2-256M-Video-Instruct`), Google SIGLIP (`google/siglip2-base-patch16-384`), Gemini API (멀티모달 입력), Qwen-VL-Plus API (멀티모달 입력)
-    *   **라이브러리**: PyTorch, Transformers, OpenCV, Pillow (PIL)
-*   **웹 스크레이핑**: Selenium, `webdriver-manager` (Google 리뷰용)
-*   **데이터 처리**: Pandas
-*   **로깅**: 표준 Python `logging` 모듈
-*   **병렬 처리**: `concurrent.futures.ThreadPoolExecutor` (비디오 처리 등)
-
 *   **개발환경**: Mac OS, Google Colab
 *   **개발도구**: Visual Studio Code, Jupyter Notebook
 *   **개발언어**: Python
@@ -56,15 +45,13 @@
     *   **음성 인식**: Whisper (Speech-to-Text)
     *   **번역**: GPT API (다국어 번역)
     *   **음성 합성**: ZONOS (Text-to-Speech)
-*   **AI/머신러닝**:
-    *   **음성 특성 추출**: CLAP (Contrastive Language-Audio Pre-training) Feature Extractor
-    *   **감정 조절 모듈**: 자체 개발 Emotion Conditioning Module
-    *   **Zero Shot 학습**: HuggingFace Transformers
-
-
-핵심 라이브러리: HuggingFace, PyTorch, Transformers
-음성 처리: librosa, soundfile
-데이터 처리: NumPy, Pandas
+*   **감정 모듈 학습**:
+    *   **음성 및 텍스트 특성 추출**: CLAP (Contrastive Language-Audio Pre-training) Feature Extractor
+    *   **감정 모듈**: 자체 개발 Emotion Conditioning Module
+    *   **Zero Shot Labeling**: Gemini
+*   **핵심 라이브러리**: HuggingFace, PyTorch, Transformers
+*   **음성 처리**: librosa, soundfile
+*   **데이터 처리**: NumPy, Pandas
 
 
 
