@@ -69,7 +69,7 @@
 
 [Hugging Face의 Simpson Emotion Labeling 데이터]([BuAs/Simpson_Emotion_Labeling_for_ZONOS](https://huggingface.co/datasets/BuAs/Simpson_Emotion_Labeling_for_ZONOS))
 
-### 데이터 수집, 필터링 및 라벨링 과정
+### 데이터 수집, 필터링 과정
 
 | 단계 | 설명 | 데이터 수 |
 | :--- | :--- | :---: |
@@ -78,6 +78,7 @@
 | **1차 필터링** | 너무 짧은 문장 및 감탄사("Oh!", "Ah!" 등) 제거 | 980개 |
 | **2차 필터링** | 명확한 감정 표현과 음성 특성이 있는 샘플만 선별 | 720개 |
 
+### 라벨링 과정
 | 단계 | 설명 | 데이터 수 |
 | :--- | :--- | :---: |
 | **1차 라벨링** | Gemini API를 활용한 감정 및 음성 특성 자동 라벨링 | 720개 |
